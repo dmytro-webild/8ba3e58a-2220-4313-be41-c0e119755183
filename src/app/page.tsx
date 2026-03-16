@@ -71,7 +71,7 @@ export default function HomePage() {
               href: "/community",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/diverse-models-laughing-enjoying-time-together-look-camera_1153-9382.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/diverse-models-laughing-enjoying-time-together-look-camera_1153-9382.jpg?_wi=1"
           imageAlt="Athletic professional demonstrating fitness optimization"
           showBlur={true}
           ariaLabel="Hero section - OptimizeX platform overview"
@@ -108,21 +108,21 @@ export default function HomePage() {
               id: 1,
               title: "Expert Courses",
               description: "Structured, in-depth courses covering fitness programming, nutrition science, skincare optimization, peptides, nootropics, and performance enhancement.",
-              imageSrc: "http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg?_wi=1",
               imageAlt: "Course materials and learning resources",
             },
             {
               id: 2,
               title: "Private Community",
               description: "Connect with like-minded individuals, share experiences, discuss strategies, and get support from a community committed to self-improvement.",
-              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg?_wi=1",
               imageAlt: "Community members networking and collaborating",
             },
             {
               id: 3,
               title: "Research Library",
               description: "Access curated articles, studies, and resources about optimization techniques, health science, and evidence-based self-improvement strategies.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg?_wi=1",
               imageAlt: "Research documents and knowledge base",
             },
           ]}
@@ -223,7 +223,7 @@ export default function HomePage() {
               quote: "OptimizeX's structured courses gave me a scientific framework for my training. The community support kept me accountable, and I've seen better results in 3 months than the previous 2 years.",
               name: "James Mitchell",
               role: "Software Engineer & Fitness Enthusiast",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-fashionable-well-dressed-man-with-beard-posing-outdoors_1328-3268.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-fashionable-well-dressed-man-with-beard-posing-outdoors_1328-3268.jpg?_wi=1",
               imageAlt: "James Mitchell - OptimizeX member",
             },
             {
@@ -232,7 +232,7 @@ export default function HomePage() {
               quote: "No more guessing or following hype. OptimizeX provided me with evidence-based knowledge about supplements, skincare, and optimization techniques. The research library is invaluable.",
               name: "Sarah Chen",
               role: "Dermatology Student",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1569.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1569.jpg?_wi=1",
               imageAlt: "Sarah Chen - OptimizeX member",
             },
             {
@@ -241,7 +241,7 @@ export default function HomePage() {
               quote: "Being part of a group of like-minded individuals who are serious about optimization is motivating. The discussions in our community are insightful, and the support system is unmatched.",
               name: "Marcus Johnson",
               role: "Entrepreneur",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-colleagues-having-meeting_23-2149060278.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-colleagues-having-meeting_23-2149060278.jpg?_wi=1",
               imageAlt: "Marcus Johnson - OptimizeX member",
             },
             {
