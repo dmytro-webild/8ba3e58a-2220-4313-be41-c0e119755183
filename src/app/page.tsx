@@ -45,7 +45,7 @@ export default function HomePage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
-          brandName="OptimizeX"
+          brandName="Copemaxxing "
           navItems={navItems}
           button={{
             text: "Join Now",
@@ -56,7 +56,7 @@ export default function HomePage() {
 
       <div id="hero" data-section="hero">
         <HeroOverlay
-          title="Unlock Your Peak Performance Potential"
+          title="Unlock all the Copes"
           description="Master the science of self-optimization. Access expert-curated courses on fitness, nutrition, nootropics, skincare, and holistic wellness. Join our exclusive community of high-achievers committed to continuous improvement."
           tag="Educational Platform"
           tagIcon={Sparkles}
@@ -80,7 +80,7 @@ export default function HomePage() {
 
       <div id="about" data-section="about">
         <TextSplitAbout
-          title="Why OptimizeX?"
+          title="Why Copemaxxing?"
           description={[
             "OptimizeX is your comprehensive resource for evidence-based self-improvement. We believe in empowering individuals with knowledge about fitness optimization, skincare science, cognitive enhancement, and overall wellness.",
             "Our platform combines educational depth with community support. Whether you're interested in understanding the science behind supplementation, mastering modern fitness techniques, or discovering the latest in skincare innovation, OptimizeX provides verified, research-backed information.",
@@ -98,7 +98,7 @@ export default function HomePage() {
 
       <div id="features" data-section="features">
         <FeatureCardSix
-          title="Comprehensive Learning Ecosystem"
+          title="Comprehensive Guides to Peptides"
           description="Everything you need to optimize your physical appearance, mental performance, and overall health in one integrated platform."
           tag="Our Platform"
           tagIcon={Zap}
@@ -223,7 +223,7 @@ export default function HomePage() {
               quote: "OptimizeX's structured courses gave me a scientific framework for my training. The community support kept me accountable, and I've seen better results in 3 months than the previous 2 years.",
               name: "James Mitchell",
               role: "Software Engineer & Fitness Enthusiast",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691816639-wlqntzwn.jpg",
+              imageSrc: "http://img.b2bpic.net/premium-photo/beautiful-model-with-clean-skin-curly-hair-with-scarf-beige-wall_156359-438.jpg?id=7144746",
               imageAlt: "James Mitchell - OptimizeX member",
             },
             {
