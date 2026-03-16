@@ -71,7 +71,7 @@ export default function HomePage() {
               href: "/community",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/diverse-models-laughing-enjoying-time-together-look-camera_1153-9382.jpg?_wi=1"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691877054-4nu7pjad.jpg"
           imageAlt="Athletic professional demonstrating fitness optimization"
           showBlur={true}
           ariaLabel="Hero section - OptimizeX platform overview"
@@ -108,21 +108,21 @@ export default function HomePage() {
               id: 1,
               title: "Expert Courses",
               description: "Structured, in-depth courses covering fitness programming, nutrition science, skincare optimization, peptides, nootropics, and performance enhancement.",
-              imageSrc: "http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691867939-bwvd10ej.png",
               imageAlt: "Course materials and learning resources",
             },
             {
               id: 2,
               title: "Private Community",
               description: "Connect with like-minded individuals, share experiences, discuss strategies, and get support from a community committed to self-improvement.",
-              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691816639-ildnhsq1.jpg",
               imageAlt: "Community members networking and collaborating",
             },
             {
               id: 3,
               title: "Research Library",
               description: "Access curated articles, studies, and resources about optimization techniques, health science, and evidence-based self-improvement strategies.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691816639-13npg4yz.jpg",
               imageAlt: "Research documents and knowledge base",
             },
           ]}
@@ -223,7 +223,7 @@ export default function HomePage() {
               quote: "OptimizeX's structured courses gave me a scientific framework for my training. The community support kept me accountable, and I've seen better results in 3 months than the previous 2 years.",
               name: "James Mitchell",
               role: "Software Engineer & Fitness Enthusiast",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-fashionable-well-dressed-man-with-beard-posing-outdoors_1328-3268.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691816639-wlqntzwn.jpg",
               imageAlt: "James Mitchell - OptimizeX member",
             },
             {
