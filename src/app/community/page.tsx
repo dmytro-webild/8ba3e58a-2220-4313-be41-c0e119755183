@@ -59,7 +59,7 @@ export default function CommunityPage() {
               href: "#benefits",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg?_wi=2"
           imageAlt="Community members networking and supporting each other"
           showBlur={true}
           ariaLabel="Community hero section"
@@ -78,21 +78,21 @@ export default function CommunityPage() {
               id: 1,
               title: "Daily Discussions & Threads",
               description: "Engage in real-time conversations about fitness techniques, nutrition strategies, cognitive optimization, skincare science, and personal development. Get answers from experienced members and experts.",
-              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg?_wi=2",
               imageAlt: "Community forum and discussion board",
             },
             {
               id: 2,
               title: "Weekly Challenges & Accountability",
               description: "Participate in structured challenges that keep you motivated and accountable. From 30-day fitness challenges to nutrition tracking competitions, our community thrives on mutual support and shared goals.",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg?_wi=3",
               imageAlt: "Group fitness training and accountability",
             },
             {
               id: 3,
               title: "Expert AMAs & Events",
               description: "Monthly Ask-Me-Anything sessions with fitness coaches, nutrition scientists, dermatologists, and health professionals. Exclusive webinars and live Q&A sessions covering cutting-edge optimization topics.",
-              imageSrc: "http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg?_wi=3",
               imageAlt: "Expert presentation and educational event",
             },
           ]}
@@ -114,7 +114,7 @@ export default function CommunityPage() {
               quote: "I was struggling alone before joining. The community's daily motivation, practical advice, and genuine friendships made me stick with my optimization journey. I've never felt more supported.",
               name: "James Mitchell",
               role: "Software Engineer & Fitness Enthusiast",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-fashionable-well-dressed-man-with-beard-posing-outdoors_1328-3268.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-fashionable-well-dressed-man-with-beard-posing-outdoors_1328-3268.jpg?_wi=2",
               imageAlt: "James Mitchell testimonial",
             },
             {
@@ -123,7 +123,7 @@ export default function CommunityPage() {
               quote: "The combination of active community members and monthly expert AMAs gives me access to knowledge I'd normally spend thousands on consultants for. The value is incredible.",
               name: "Sarah Chen",
               role: "Dermatology Student",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1569.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1569.jpg?_wi=2",
               imageAlt: "Sarah Chen testimonial",
             },
             {
@@ -132,7 +132,7 @@ export default function CommunityPage() {
               quote: "Finally surrounded by people who understand the pursuit of optimization. It's not just about fitness—it's about holistic growth. This community gets it.",
               name: "Marcus Johnson",
               role: "Entrepreneur",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-colleagues-having-meeting_23-2149060278.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-colleagues-having-meeting_23-2149060278.jpg?_wi=2",
               imageAlt: "Marcus Johnson testimonial",
             },
           ]}
