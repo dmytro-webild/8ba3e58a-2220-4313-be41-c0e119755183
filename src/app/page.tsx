@@ -339,7 +339,7 @@ export default function HomePage() {
 
       <div id="footer" data-section="footer">
         <FooterCard
-          logoText="OptimizeX"
+          logoText="Copemaxxing "
           copyrightText="© 2025 OptimizeX. All rights reserved."
           socialLinks={[
             {
