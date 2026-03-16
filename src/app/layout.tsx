@@ -6,22 +6,10 @@ import "./globals.css";
 import { ServiceWrapper } from "@/components/ServiceWrapper";
 import Tag from "@/tag/Tag";
 import { getVisualEditScript } from "@/utils/visual-edit-script";
+import { Manrope } from "next/font/google";
 
-const halant = Halant({
-  variable: "--font-halant",
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
-});
 
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-});
 
-const archivo = Archivo({
-  variable: "--font-archivo",
-  subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
   title: "OptimizeX - Self-Improvement & Fitness Knowledge Hub",
@@ -48,6 +36,11 @@ export const metadata: Metadata = {
   },
 };
 
+const manrope = Manrope({
+  variable: "--font-manrope",
+  subsets: ["latin"],
+});
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -56,9 +49,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <ServiceWrapper>
-        <body
-          className={`${halant.variable} ${inter.variable} ${archivo.variable} antialiased`}
-        >
+        <body className={`${manrope.variable} antialiased`}>
           <Tag />
           {children}
           <script
