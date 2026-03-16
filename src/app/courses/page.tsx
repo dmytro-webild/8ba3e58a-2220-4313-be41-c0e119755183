@@ -73,7 +73,7 @@ export default function CoursesPage() {
               href: "/signup",
             },
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773692400050-7ki5s1hd.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B2Vhy22rOGwLyN5NWSD2m69TAO/uploaded-1773691809122-oicrcvoe.jpg"
           imageAlt="online learning education course dashboard"
           showBlur={true}
           ariaLabel="Courses page hero - Educational content showcase"
