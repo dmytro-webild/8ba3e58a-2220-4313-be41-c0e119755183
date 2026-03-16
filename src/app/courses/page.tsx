@@ -90,14 +90,14 @@ export default function CoursesPage() {
           features={[
             {
               id: 1,
-              title: "Fitness Optimization",
+              title: "Peptide Optimization",
               description: "Master modern training methodologies, periodization, recovery protocols, and evidence-based programming for aesthetic and performance goals.",
               imageSrc: "http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg?_wi=1",
               imageAlt: "group community people networking together",
             },
             {
               id: 2,
-              title: "Nutrition Science",
+              title: "Performace enhancing Science",
               description: "Learn the biochemistry of nutrition, macronutrient optimization, supplementation science, and meal planning strategies for your specific goals.",
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-students-library_23-2149204754.jpg?_wi=1",
               imageAlt: "courses library learning resources",
