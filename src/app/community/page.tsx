@@ -33,7 +33,7 @@ export default function CommunityPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
-          brandName="OptimizeX"
+          brandName="copemaxxing "
           navItems={navItems}
           button={{
             text: "Join Now",
