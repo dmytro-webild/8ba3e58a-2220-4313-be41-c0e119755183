@@ -47,7 +47,7 @@ export default function CoursesPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
-          brandName="OptimizeX"
+          brandName="Copemaxxing "
           navItems={navItems}
           button={{
             text: "Join Now",
