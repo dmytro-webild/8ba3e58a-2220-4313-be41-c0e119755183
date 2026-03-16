@@ -73,7 +73,7 @@ export default function CoursesPage() {
               href: "/signup",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/person-presenting-information-meeting-white-board_23-2149085958.jpg?_wi=2"
           imageAlt="online learning education course dashboard"
           showBlur={true}
           ariaLabel="Courses page hero - Educational content showcase"
@@ -92,21 +92,21 @@ export default function CoursesPage() {
               id: 1,
               title: "Fitness Optimization",
               description: "Master modern training methodologies, periodization, recovery protocols, and evidence-based programming for aesthetic and performance goals.",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-people-training-together-gym_23-2150289970.jpg?_wi=1",
               imageAlt: "group community people networking together",
             },
             {
               id: 2,
               title: "Nutrition Science",
               description: "Learn the biochemistry of nutrition, macronutrient optimization, supplementation science, and meal planning strategies for your specific goals.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-students-library_23-2149204754.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-students-library_23-2149204754.jpg?_wi=1",
               imageAlt: "courses library learning resources",
             },
             {
               id: 3,
               title: "Advanced Topics",
               description: "Explore cutting-edge research in skincare science, nootropics, peptides, hormonal optimization, and longevity strategies for high-performers.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg?_wi=2",
               imageAlt: "research documents knowledge base",
             },
           ]}

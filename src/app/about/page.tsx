@@ -59,7 +59,7 @@ export default function AboutPage() {
               href: "/courses",
             },
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/diverse-models-laughing-enjoying-time-together-look-camera_1153-9382.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/diverse-models-laughing-enjoying-time-together-look-camera_1153-9382.jpg?_wi=2"
           imageAlt="Our mission and values visualization"
           showBlur={true}
           ariaLabel="About OptimizeX hero section"
@@ -96,21 +96,21 @@ export default function AboutPage() {
               id: 1,
               title: "Evidence-Based Education",
               description: "Every course, article, and recommendation is grounded in scientific research and real-world application. We prioritize accuracy and fact-checking above all else.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-students-library_23-2149204754.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-students-library_23-2149204754.jpg?_wi=2",
               imageAlt: "Research and evidence-based learning",
             },
             {
               id: 2,
               title: "Community First",
               description: "We believe transformation happens together. Our community is the heart of OptimizeX, where members support each other, share experiences, and collectively rise to higher levels of optimization.",
-              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/group-beautiful-women-celebrating-together_23-2148407549.jpg?_wi=3",
               imageAlt: "Community collaboration and support",
             },
             {
               id: 3,
               title: "Continuous Improvement",
               description: "Just as we encourage our members to never stop optimizing, we continuously improve our platform, expand our course library, and evolve our resources based on member feedback and emerging research.",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-vie-plants-notebook_23-2148785088.jpg?_wi=3",
               imageAlt: "Continuous learning and growth",
             },
           ]}
